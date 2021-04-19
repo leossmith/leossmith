@@ -1,6 +1,8 @@
 # Hi, I'm Leo 👋🏼
 
-### Work 
+💻 Tech Enthusiast | 🕹️ Gamer |📱 Mobile Developer | Fortune 40Under40, ✌️ GDG Athens, WTM Ambassador | 🎯 PTIEP Mentor I am Leo, a tech enthusiast and gamer. I have been building mobile apps since 2008 and work as a lead developer. Nowdays I play around with Flutter building fun apps. On my free time I love building and tuning custom water cooled PCs and of course playing games.
+
+## Work 
 
 I am a founder of [@SimpleAppsgr](https://simpleapps.gr).
 
@@ -12,4 +14,4 @@ I am a founder of [@SimpleAppsgr](https://simpleapps.gr).
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leossmith&count_private=true&show_icons=true&theme=gradient)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leossmith&count_private=true&show_icons=true&theme=dracula)
